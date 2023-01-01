@@ -1,4 +1,6 @@
 # Arcturus
-Files for Arcturus, a SlimeVR case.
+Files for Arcturus, a SlimeVR case. (winterx renamed and completely redone)
 
-Currently printing test case #2, not tested for public ready yet.
+Hi! Here youll find the files for printing the arcturus case, and its extension case. These are the sucessors to the winterx and xtension cases.
+
+
