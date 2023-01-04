@@ -7,7 +7,7 @@
 Hi! Here youll find the files for printing the arcturus case, and its extension case. These are the sucessors to the winterx and xtension cases.
 
 This case is for the following compentents : 
-- 804040 Battery
+- 804040 Battery (Or 501646 in alt battery files)
 - BMI160
 - Wemos D1 Mini
 - tpu4056 type C
@@ -15,3 +15,6 @@ This case is for the following compentents :
 - Aliexpress Power Switch (DPDT 2P2T)
 - 2in elastic straps (Main case)
 - 1in elastic straps (extensions)
+
+Alt Battery Cases:
+- for 501646, straps would need to be around 1.5 inches or a bit smaller.
