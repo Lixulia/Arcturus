@@ -17,4 +17,7 @@ This case is for the following compentents :
 - 2in elastic straps (Main case)
 - 1in elastic straps (extensions)
 
+You can download both the case and extension files in one zip in the releases.
+
 *Recently I moved things into folders for cleanliness*
+
