@@ -1,3 +1,4 @@
+![hovertext](https://github.com/Lixulia/Arcturus/blob/main/renders/ArcturusLOGO.png)
 # Arcturus
 *Design by Whitney/Lixulia*
 ![hovertext](https://github.com/Lixulia/Arcturus/blob/main/renders/renderforarcturus.PNG)
