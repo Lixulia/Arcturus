@@ -1,5 +1,5 @@
 ![hovertext](https://github.com/Lixulia/Arcturus/blob/main/renders/ArcturusLOGO.png)
-# Design by Whitney/Lixulia
+# *Design by Whitney/Lixulia*
 ![hovertext](https://github.com/Lixulia/Arcturus/blob/main/renders/renderforarcturus.PNG)
 ![hovertext](https://github.com/Lixulia/Arcturus/blob/main/renders/ArcExtensionRender.png)
 
