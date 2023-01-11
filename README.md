@@ -16,5 +16,3 @@ This case is for the following compentents :
 - 2in elastic straps (Main case)
 - 1in elastic straps (extensions)
 
-Alt Battery Cases:
-- for 501646, straps would need to be around 1.5 inches or a bit smaller.
