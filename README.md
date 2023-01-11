@@ -1,4 +1,5 @@
 # Arcturus
+*Design by Whitney/Lixulia*
 ![hovertext](https://github.com/Lixulia/Arcturus/blob/main/renders/renderforarcturus.PNG)
 ![hovertext](https://github.com/Lixulia/Arcturus/blob/main/renders/ArcExtensionRender.png)
 
@@ -16,3 +17,4 @@ This case is for the following compentents :
 - 2in elastic straps (Main case)
 - 1in elastic straps (extensions)
 
+*Recently I moved things into folders for cleanliness*
