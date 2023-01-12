@@ -1,6 +1,6 @@
 ![hovertext](https://github.com/Lixulia/Arcturus/blob/main/renders/ArcturusLOGO.png)
 # *Design by Whitney/Lixulia*
-![hovertext](https://github.com/Lixulia/Arcturus/blob/main/renders/renderforarcturusnew.PNG)
+![hovertext](https://github.com/Lixulia/Arcturus/blob/main/renders/renderforarcturusnew.png)
 ![hovertext](https://github.com/Lixulia/Arcturus/blob/main/renders/renderforarcextensionnew.png)
 
 *File directory for Arcturus, a SlimeVR case. (winterx renamed and completely redone)*
