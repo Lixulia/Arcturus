@@ -11,7 +11,7 @@ This case is for the following compentents :
 - 804040 Battery (Or 501646 in alt battery files)
 - BMI160
 - Wemos D1 Mini
-- tpu4056 type C
+- tp4056 type C
 - 26AWG wire (Anything else might be tough to wire cleanly.
 - Aliexpress Power Switch (DPDT 2P2T)
 - 2in elastic straps (Main case)
