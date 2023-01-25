@@ -12,7 +12,7 @@ This case is for the following compentents :
 - BMI160
 - Wemos D1 Mini
 - tp4056 type C
-- 26AWG wire (Anything else might be tough to wire cleanly.
+- 26AWG wire (Anything else might be tough to wire cleanly.)
 - Aliexpress Power Switch (DPDT 2P2T)
 - 2in elastic straps (Main case)
 - 1in elastic straps (extensions)
