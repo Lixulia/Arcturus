@@ -21,3 +21,4 @@ You can download both the case and extension files in one zip in the releases.
 
 *Recently I moved things into folders for cleanliness*
 
+Adding Dovetail/Alt Lid vers. Soon!!
