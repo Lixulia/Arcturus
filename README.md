@@ -21,4 +21,5 @@ You can download both the case and extension files in one zip in the releases.
 
 *Recently I moved things into folders for cleanliness*
 
-Adding Dovetail/Alt Lid vers. Soon!!
+Added dovetail version in new versions. Feel try to try it out and let me know how it goes! I personally really love the sliding lid rather than friction fit.
+If its liked enough ill change it to main!
