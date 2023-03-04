@@ -8,18 +8,19 @@
 Hi! Here youll find the files for printing the arcturus case, and its extension case. These are the sucessors to the winterx and xtension cases.
 
 This case is for the following compentents : 
-- 804040 Battery (Or 501646 in alt battery files)
+- 804040 Battery (or smaller)
 - BMI160
 - Wemos D1 Mini
 - tp4056 type C
-- 26AWG wire (Anything else might be tough to wire cleanly.)
+- 26AWG wire (or smaller. Nothing bigger.)
 - Aliexpress Power Switch (DPDT 2P2T)
-- 2in elastic straps (Main case)
+- 2in elastic straps (Main case) or 1.5, it works too.
 - 1in elastic straps (extensions)
 
 You can download both the case and extension files in one zip in the releases.
 
 *Recently I moved things into folders for cleanliness*
 
-Added dovetail version in new versions. Feel try to try it out and let me know how it goes! I personally really love the sliding lid rather than friction fit.
-If its liked enough ill change it to main!
+Dovetail version is now main case.
+
+Just added alt lid versions, with body locations engraved into them.
