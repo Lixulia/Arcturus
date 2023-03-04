@@ -24,3 +24,9 @@ You can download both the case and extension files in one zip in the releases.
 Dovetail version is now main case.
 
 Just added alt lid versions, with body locations engraved into them.
+
+**For lids**
+LA or RA = Left or right arm.
+LL or RL = Left or right leg.
+LF or RF = Left or right ankle, or foot. *This is due to the shorthand A being taken by arm already.*
+HIP or CH = Hip or chest.
