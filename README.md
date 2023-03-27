@@ -17,6 +17,11 @@ This case is for the following compentents :
 - 2in elastic straps (Main case) or 1.5, it works too.
 - 1in elastic straps (extensions)
 
+**Recommended Print settings:**
+- 20% infill
+- No supports necassary
+- .2mm print quality
+
 You can download both the case and extension files in one zip in the releases.
 
 *Recently I moved things into folders for cleanliness*
