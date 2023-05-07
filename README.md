@@ -3,9 +3,10 @@
 ![hovertext](https://github.com/Lixulia/Arcturus/blob/main/renders/renderforarcturusnew.png)
 ![hovertext](https://github.com/Lixulia/Arcturus/blob/main/renders/renderforarcextensionnew.png)
 
+# **ARCTURUS IS NOW A FULLY OPEN SOURCE PROJECT AND I WILL BE TAKING A TEMP LEAVE FROM IT!!**
 *File directory for Arcturus, a SlimeVR case. (winterx renamed and completely redone)*
 
-**ARCTURUS IS NOW A FULLY OPEN SOURCE PROJECT AND I WILL BE TAKING A TEMP LEAVE FROM IT!!**
+
 
 Hi! Here youll find the files for printing the arcturus case, and its extension case. These are the sucessors to the winterx and xtension cases.
 
