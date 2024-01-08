@@ -13,7 +13,7 @@ Hi! Here youll find the files for printing the arcturus case, and its extension 
 This case is for the following compentents : 
 - 804040 Battery (or smaller)
 - BMI160
-- Wemos D1 Mini
+- Wemos D1 Mini (micro b version)
 - tp4056 type C
 - 26AWG wire (or smaller. Nothing bigger.)
 - Aliexpress Power Switch (DPDT 2P2T)
